@@ -16,7 +16,7 @@ This code will produce a home icon. You only need to include those svg as images
 This project is MIT Licensed 
 
 ## Contributing 
-If you wish to contribute to this project, star 🌟 it, fork and pull request if any changes is made. Include a screnshot of the changes, make sure to add a title and a good description of the changes made. For more information about contributing read the contributing.md file. 
+If you wish to contribute to this project, star 🌟 it, fork and pull request if any changes is made. Include a screnshot of the changes, make sure to add a title and a good description of the changes made. For more information about contributing read the [CONTRIBUTING.md](https://github.com/MoralistFestus/twisvg/blob/master/CONTRIBUTING.md) file. 
 
 ## Usage
 This svg is free for any projects usage. 
